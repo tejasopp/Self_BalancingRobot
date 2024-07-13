@@ -1,7 +1,6 @@
 # Self-Balancing Robot
 
 This project is a self-balancing robot that uses stepper motors, an ESP32 microcontroller, stepper motor drivers, and an IMU sensor. The robot maintains its balance by employing a PID control algorithm to adjust the motors based on the feedback from the IMU sensor.
-![Self-BalancingRobot](https://github.com/user-attachments/assets/606b02a0-a093-4ec0-abb3-74bdd75dbaec)
 
 ## Table of Contents
 1. [Introduction](#introduction)
