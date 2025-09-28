@@ -74,7 +74,6 @@ The PID control algorithm is used to adjust the motor speeds to maintain balance
 
 https://github.com/user-attachments/assets/d03ec3ad-50ff-4dbb-ba08-d75d850a15aa
 
-## References
-- https://gitlab.com/kloppertje/balancingrobot/-/tree/ps3control
+
 
 ---
