@@ -13,7 +13,6 @@ This project is a self-balancing robot that uses stepper motors, an ESP32 microc
 6. [Assembly](#assembly)
 7. [Usage](#usage)
 8. [Result](#Result)
-9. [References](#References)
 
 ## Introduction
 The self-balancing robot is an advanced project that demonstrates the use of control systems, sensors, and microcontrollers. It can be used as a platform for further experiments with robotics and control theory.
